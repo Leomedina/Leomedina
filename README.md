@@ -1,7 +1,8 @@
-## Welcome! 👋
+## About myself:
 
-### About myself:
-I'm a Software engineer with an extensive business development background. Before expanding my lifelong programming hobby into a career through the Software Engineering program at Springboard, I managed corporate relationships and oversaw the creation of national point-of-sale marketing campaigns, the integration of vendor onboarding across Jet.com and Walmart e-Commerce, and, as an intern, relaunched the Help Desk section for one of Adobe's largest platforms.
+I'm a software engineer with an extensive business development background. Before expanding my lifelong programming hobby into a career through the Software Engineering program at Springboard, I managed corporate relationships and oversaw the creation of national point-of-sale marketing campaigns, the integration of vendor onboarding across Jet.com and Walmart e-Commerce, and, as an intern, relaunched the Help Desk section for one of Adobe's largest platforms.
+
+🔭 I’m currently working on Springboard's Software Engineer program and Considered Collectively, a web app that allows people to educate themselves and follow the current legislation in the United States Congress.
 
 <!--
 **Leomedina/Leomedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
