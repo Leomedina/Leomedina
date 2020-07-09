@@ -4,6 +4,13 @@ I'm a software engineer with an extensive business development background. Befor
 
 🔭 I’m currently working on Springboard's Software Engineer program and Considered Collectively, a web app that allows people to educate themselves and follow the current legislation in the United States Congress.
 
+🌱 I’m currently learning Node and React.
+
+👯 I’m looking to collaborate on Open Source Projects and intitiatives to increase latino representation in tech. 
+
+😄 Pronouns: He/Him.
+
+
 <!--
 **Leomedina/Leomedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
