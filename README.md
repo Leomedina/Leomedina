@@ -8,6 +8,8 @@ I'm a software engineer with an extensive business development background. Befor
 
 👯 I’m looking to collaborate on Open Source Projects and intitiatives to increase representation of minorites in tech. 
 
+📧 Say hello at medinayleo@gmail.com.
+
 😄 Pronouns: He/Him.
 
 
