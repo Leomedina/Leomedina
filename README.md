@@ -10,6 +10,8 @@ I'm a software engineer with an extensive business development background. Befor
 
 📧 Say hello at medinayleo@gmail.com.
 
+💼 Connnect with me on [LinkedIn](https://www.linkedin.com/in/medinaleonardo/).
+
 😄 Pronouns: He/Him.
 
 
