@@ -14,5 +14,7 @@ I'm a software engineer with an extensive business development background. Befor
 
 😄 Pronouns: He/Him.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomedina)](https://github.com/anuraghazra/github-readme-stats)
+## Favorite Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomedina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
