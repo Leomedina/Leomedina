@@ -4,7 +4,7 @@ I'm a software engineer with an extensive business development background. Befor
 
 ## Quick Bits:
 
-🔭 I’m currently erolled in Springboard's Software Engineering program and working on Considered Collectively, a web app that allows people to follow current legislation in the United States Congress.
+🔭 I’m currently finishing Springboard's Software Engineering program and working on Considered Collectively, a web app that allows people to follow current legislation in the United States Congress.
 
 🌱 I’m currently learning Node and React.
 
