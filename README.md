@@ -4,7 +4,7 @@ I'm a software engineer with an extensive business development background. Befor
 
 ## Quick Bits:
 
-🔭 I’m currently finishing Springboard's Software Engineering program, working on Considered Collectively, a web app that allows people to follow current legislation in the United States Congress, and I open-sourced a small Node tool for working with your PostgreSQL database using Node! You can see that [here.] (https://www.npmjs.com/package/lightweight-pg-orm). Let me know what you thinK! 
+🔭 I’m currently finishing Springboard's Software Engineering program, working on Considered Collectively, a web app that allows people to follow current legislation in the United States Congress, and I open-sourced a small Node tool for working with your PostgreSQL database using Node! You can see that [here.](https://www.npmjs.com/package/lightweight-pg-orm). Let me know what you thinK! 
 
 🌱 I’m currently learning Node and React.
 
