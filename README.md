@@ -1,14 +1,5 @@
-# <div align="center">Hi! I'm Leo.</div>
-
-🔭 I'm currently working on Considered Collectively, a web app that allows people to follow current legislation in the United States Congress. You can see that [here!](https://considered-collectively.herokuapp.com/).
-
-🛒 In addition to Considered Collectively, I've open-sourced a tool that allows JavaScript developers to more easily read and write to PostgreSQL databases. You can see that tool [here!](https://github.com/Leomedina/lightweight-pg-orm) I'm really interested in improving my projects, so if you have any feedback feel free to reach out :) 
-
-👯 I’m looking to collaborate on Open Source Projects and initiatives to increase representation of minorities in tech. 
-
-📧 Say hello at medinayleo@gmail.com.
-
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/medinaleonardo/).
-
-😄 Pronouns: He/Him.
-
+Hello, I'm Leo. Like many things in my life, this is a work in progress. 
+...
+I made this cool app [Considered Collectively](https://considered-collectively.herokuapp.com/).
+I'm on LinkedIn [here](https://www.linkedin.com/in/medinaleonardo/).
+I'm a Solutions Engineer for Google. I lately find myself writing a lot of Java and reading **a lot** of documentation.
